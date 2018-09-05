@@ -16,9 +16,9 @@ XHttp Powered chat application requires, works over the network on any apache an
 
 
 ### Configuration
-[ ] clone this repo `clone https://github.com/koolamusic.com`
-[ ] `cd` into the `cd ./lib` folder and create a copy of `config.php.example` using this command `cp config.php.example config.php`
-[ ] Edit the Database credentials with the required MYSQL Setup Data 
+- [ ] clone this repo `clone https://github.com/koolamusic.com`
+- [ ] `cd` into the `cd ./lib` folder and create a copy of `config.php.example` using this command `cp config.php.example config.php`
+- [ ] Edit the Database credentials with the required MYSQL Setup Data 
 
 
 ```php 
@@ -36,7 +36,7 @@ $config['dbConnection']['name'] = 'chat';
 ```
 
 
-[ ] User login information is stored in an array at `/lib/data/users.php` {user logins are stored in an array}
+- [ ] User login information is stored in an array at `/lib/data/users.php` {user logins are stored in an array}
 - create new arrays or modify existing arrays to setup new user accounts.
 
 
