@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "Forbidden"
+AuthUserFile /dev/null
+require user nobody
+
+DirectoryIndex index.php
