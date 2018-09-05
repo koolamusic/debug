@@ -1,4 +1,4 @@
-# Chat Library 
+# DE-Bug Chat Buddy 
 
 XHttp Powered chat application requires, works over the network on any apache and php server, based off Vbulletin Chat
 
