@@ -2,6 +2,10 @@
 
 XHttp Powered chat application requires, works over the network on any apache and php server, based off Vbulletin Chat
 
+![screenshot](./img/screen.png)
+
+
+
 
 ### Requirements 
 - Apache
